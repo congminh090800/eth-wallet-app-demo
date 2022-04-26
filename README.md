@@ -19,7 +19,7 @@ $ yarn start
 > Please install metamask to get connect to the blockchain
 
 ## Preferences
->Ethers documentation: https://docs.ethers.io/v5/
->Metamask documentation: https://docs.metamask.io/guide/
->How to send eth with ethers: https://piyopiyo.medium.com/how-to-send-ether-with-ethers-js-b1bb0b17a855
->Nuxtjs documentation: https://nuxtjs.org/docs/get-started/installation
+>Ethers documentation: https://docs.ethers.io/v5/  
+>Metamask documentation: https://docs.metamask.io/guide/  
+>How to send eth with ethers: https://piyopiyo.medium.com/how-to-send-ether-with-ethers-js-b1bb0b17a855  
+>Nuxtjs documentation: https://nuxtjs.org/docs/get-started/installation  
