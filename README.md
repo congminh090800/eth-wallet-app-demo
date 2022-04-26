@@ -2,7 +2,8 @@
 
 ## Description
 This web app using Ethers library to interact with Ethereum Blockchain instead of normal Web3.  
-> Github: https://github.com/congminh090800/eth-wallet-app-demo  
+### Github: https://github.com/congminh090800/eth-wallet-app-demo  
+### Hosted on Vercel: https://eth-wallet-app-demo.vercel.app/  
 ## Build Setup
 
 ```bash
