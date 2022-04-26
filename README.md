@@ -1,5 +1,8 @@
 # eth-wallet-app-demo
 
+## Description
+This web app using Ethers library to interact with Ethereum Blockchain instead of normal Web3.
+
 ## Build Setup
 
 ```bash
@@ -16,7 +19,7 @@ $ yarn start
 ```
 
 ## Requirement to run this properly:
-> Please install metamask to get connect to the blockchain
+> Please install metamask to get connected to the blockchain
 
 ## Preferences
 >Ethers documentation: https://docs.ethers.io/v5/  
