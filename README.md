@@ -1,8 +1,8 @@
 # eth-wallet-app-demo
 
 ## Description
-This web app using Ethers library to interact with Ethereum Blockchain instead of normal Web3.
-
+This web app using Ethers library to interact with Ethereum Blockchain instead of normal Web3.  
+> Github: https://github.com/congminh090800/eth-wallet-app-demo  
 ## Build Setup
 
 ```bash
